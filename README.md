@@ -13,7 +13,9 @@ I'm not an experienced developer in any shape or form. I consider myself as a no
 
 If you are interested for some apparent reason, i'd like to introduce the other side of mine. Besides studying in Engineering field, I have a passion for music, and play the guitar. All those aside, I love photography. Just some thing I love doing besides learning and developing in front of a screen.
 
-My education :
+---
+
+### My education :
 |  Institute|  batch|Level|
 |--|--|--|
 | New Horizon Gurukul | 2023 |12th PCMC AISSCE|

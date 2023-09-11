@@ -1,7 +1,7 @@
 
 # Hi There 👋 🦀 
 
-<img src="https://github.com/bwaklog/bwaklog/assets/91192289/456c2945-6aa8-429f-a45d-b26320d82d84" style="width:82px;"/>
+<img href="https://bwaklog.github.io" src="https://github.com/bwaklog/bwaklog/assets/91192289/456c2945-6aa8-429f-a45d-b26320d82d84" style="width:82px;"/>
 
 
 **Hallo!** _Aditya_ here. I am a student based in _Bengaluru, India_. Currently pursuing in _B.Tech in CSE_. This is my github page, which i mostly use for saving some small scale projects. Look forward towards building useful products and collaborating in open source.

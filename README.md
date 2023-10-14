@@ -3,6 +3,10 @@
 
 I am a student based in _Bengaluru, India_. Currently pursuing in _B.Tech in CSE_. This is my github page, which i mostly use for saving some small scale projects. Look forward towards building useful products and collaborating in open source.
 
+### Status : 
+ - Member of ACM Student Chapter at PESU
+ - mentor in Hackerspace PESU-ECC
+
 ### Do checkout my repos :D
 
 ---

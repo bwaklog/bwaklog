@@ -5,7 +5,7 @@ I am a student based in _Bengaluru, India_. Currently pursuing in _B.Tech in CSE
 
 ### Status : 
  - Member of ACM Student Chapter at PESU
- - mentor in Hackerspace PESU-ECC
+ - Mentor in Hackerspace PESU-ECC
 
 ### Do checkout my repos :D
 

@@ -13,11 +13,11 @@ Pursuing b.tech in CSE at PES University
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 26 mins   ████████████████████░░░░░   79.59 %
-CSV        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Markdown   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-CSS        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-HTML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Python       4 hrs 36 mins   ███████████████████▓░░░░░   79.19 %
+Markdown     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+HTML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Lua          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->

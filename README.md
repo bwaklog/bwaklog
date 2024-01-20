@@ -13,11 +13,11 @@ Pursuing b.tech in CSE at PES University
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
-C            2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-TypeScript   1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Assembly     1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Go           1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Python       4 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+C            4 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+TypeScript   1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Assembly     1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Go           1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->

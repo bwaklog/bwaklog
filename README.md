@@ -13,9 +13,10 @@ Pursuing b.tech in CSE at PES University
 <!--START_SECTION:waka-->
 
 ```txt
-C       3 mins          ████████████████████████░   96.23 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Lua     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+HTML    2 hrs 6 mins    ████████████████▓░░░░░░░░   67.00 %
+CSS     57 mins         ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+C       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->

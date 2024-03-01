@@ -13,11 +13,11 @@ Pursuing b.tech in CSE at PES University
 <!--START_SECTION:waka-->
 
 ```txt
-Go          18 hrs 3 mins   ████████████████░░░░░░░░░   64.52 %
-C           2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-CSS         2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Markdown    1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Other       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Go          16 hrs 22 mins  ███████████████░░░░░░░░░░   60.09 %
+C           3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+CSS         2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Markdown    1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->

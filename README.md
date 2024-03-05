@@ -4,7 +4,9 @@
 Pursuing b.tech in CSE at PES University
 
  - 🌐 Member of ACM PESU-ECC
- - 👨‍💻 Mentor in Hackerspace PESU-ECC
+ - 👨 💻 Mentor in Hackerspace PESU-ECC
+
+**Homepage** : [bwaklog.github.io](https://bwaklog.github.io)
 
  [![Years Badge](https://badges.pufler.dev/years/bwaklog)](https://badges.pufler.dev) 
  [![Repos Badge](https://badges.pufler.dev/repos/bwaklog)](https://badges.pufler.dev)

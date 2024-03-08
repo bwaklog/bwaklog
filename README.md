@@ -6,7 +6,7 @@ Pursuing b.tech in CSE at PES University
  - 🌐 Member of ACM PESU-ECC
  - 👨 💻 Mentor in Hackerspace PESU-ECC
 
-**Homepage** : [bwaklog.github.io](https://bwaklog.github.io) created with a custom SSG :D
+**Homepage** : [hegde.live](https://hegde.live) created with a custom SSG :D
 
  [![Years Badge](https://badges.pufler.dev/years/bwaklog)](https://badges.pufler.dev) 
  [![Repos Badge](https://badges.pufler.dev/repos/bwaklog)](https://badges.pufler.dev)

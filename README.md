@@ -1,17 +1,15 @@
 
-# Henlo 🌊
+# Hey! I'm [Aditya](https://hegde.live) 🌊
+B.Tech in CSE @ PESU
 
-Pursuing b.tech in CSE at PES University
+ - Member of ACM PESU-ECC
+ - Mentor in HSP PESU-ECC
 
- - 🌐 Member of ACM PESU-ECC
- - 👨 💻 Mentor in Hackerspace PESU-ECC
-
-**Homepage** : [hegde.live](https://hegde.live) created with my teams own ssg [anna](https://github.com/acmpesuecc/anna) :D
-
+<!--
  [![Years Badge](https://badges.pufler.dev/years/bwaklog)](https://badges.pufler.dev) 
  [![Repos Badge](https://badges.pufler.dev/repos/bwaklog)](https://badges.pufler.dev)
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/bwaklog)](https://badges.pufler.dev)
-
+-->
 <!--START_SECTION:waka-->
 
 ```txt

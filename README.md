@@ -13,11 +13,11 @@ B.Tech in CSE @ PESU
 <!--START_SECTION:waka-->
 
 ```txt
-CSS            4 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   29.54 %
-HTML           1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Rust           1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Markdown       1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Makefile       1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+CSS            2 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+HTML           1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Markdown       1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+JavaScript     1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Makefile       1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
 ```
 
 <!--END_SECTION:waka-->

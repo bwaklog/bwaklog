@@ -13,10 +13,7 @@ B.Tech in CSE @ PESU
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    8 mins          ███████████████████▓░░░░░   78.48 %
-C       2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-Lua     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
